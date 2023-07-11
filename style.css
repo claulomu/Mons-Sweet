@@ -1,0 +1,21 @@
+*{
+
+padding: 0;
+margin: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: black ;
+    color: aliceblue;
+    padding: 20px;
+}
+ ul {
+    background-color: burlywood;
+    width: 100%;
+    list-style-type: none;
+    text-align:center
+}
+img {
+    border-radius: 50%;
+}
